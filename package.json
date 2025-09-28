@@ -1,0 +1,27 @@
+{
+  "name": "Tu4nSec",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">👾 Tu4nSec</h1>\r <h3 align=\"center\">DFIR | Soc Analyst | Threat Intelligence </h3>\r <div align=\"center\">\r   <div style=\"display: flex; gap: 20px;\">\r   <!-- GitHub Stats (Left) -->\r   <img src=\"https://github-readme-stats.vercel.app/api?username=Tu4nSec&show_icons=true&theme=dracula&hide_border=false&border_radius=5\" height=\"150\" alt=\"GitHub Stats\" />",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tu4nSec/Tu4nSec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tu4nSec/Tu4nSec/issues"
+  },
+  "homepage": "https://github.com/Tu4nSec/Tu4nSec#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.0",
+    "simple-git": "^3.28.0"
+  }
+}
